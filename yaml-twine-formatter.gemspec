@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'yaml-twine-formatter'
-  s.version     = '0.1.0'
-  s.date        = '2018-08-20'
+  s.version     = '1.0.0'
+  s.date        = '2018-08-22'
   s.summary     = 'A Twine formatter to YAML'
   s.description = 'A Twine formatter to YAML'
   s.authors     = ['Šimon Kručinin']
